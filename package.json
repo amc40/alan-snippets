@@ -12,10 +12,6 @@
   "categories": [
     "Snippets"
   ],
-  "activationEvents": [
-    "onLanguage:typescriptreact"
-  ],
-  "main": "./dist/extension.js",
   "contributes": {
     "snippets": [
       {
