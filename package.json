@@ -4,7 +4,7 @@
   "author": "Alan Chodyniecki",
   "publisher": "alan-chodyniecki",
   "description": "Some snippets that I use in my day-to-day coding.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": "https://github.com/amc40/alan-snippets",
   "engines": {
     "vscode": "^1.73.0"
