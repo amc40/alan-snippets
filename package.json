@@ -13,7 +13,7 @@
     "Snippets"
   ],
   "activationEvents": [
-    "onCommand:alan-snippets.helloWorld"
+    "onLanguage:typescriptreact"
   ],
   "main": "./dist/extension.js",
   "contributes": {
