@@ -16,7 +16,7 @@
     "snippets": [
       {
         "language": "typescriptreact",
-        "path": "./src/snippets/typescriptreact.json"
+        "path": "./snippets/typescriptreact.json"
       }
     ]
   },
